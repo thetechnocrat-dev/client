@@ -1,4 +1,4 @@
-import { EMPTY_ADDRESS } from '@darkforest_eth/constants';
+import { EMPTY_ADDRESS } from 'darkforest_terraform_eth_constants';
 import { getPlayerColor } from '@darkforest_eth/procedural';
 import { EthAddress } from '@darkforest_eth/types';
 import colorFn from 'color';

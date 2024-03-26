@@ -1,4 +1,4 @@
-import { RECOMMENDED_MODAL_WIDTH } from '@darkforest_eth/constants';
+import { RECOMMENDED_MODAL_WIDTH } from 'darkforest_terraform_eth_constants';
 import { formatNumber } from '@darkforest_eth/gamelogic';
 import {
   getPlanetClass,

@@ -1,4 +1,4 @@
-import { SpecialKey } from '@darkforest_eth/constants';
+import { SpecialKey } from 'darkforest_terraform_eth_constants';
 import { monomitter } from '@darkforest_eth/events';
 import { Setting } from '@darkforest_eth/types';
 import { useEffect, useState } from 'react';

@@ -1,4 +1,4 @@
-import { RECOMMENDED_MODAL_WIDTH } from '@darkforest_eth/constants';
+import { RECOMMENDED_MODAL_WIDTH } from 'darkforest_terraform_eth_constants';
 import { TooltipName } from '@darkforest_eth/types';
 import React, { useEffect, useLayoutEffect, useRef, useState } from 'react';
 import ReactDOM from 'react-dom';

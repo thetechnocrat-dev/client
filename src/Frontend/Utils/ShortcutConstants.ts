@@ -1,4 +1,4 @@
-import { SpecialKey } from '@darkforest_eth/constants';
+import { SpecialKey } from 'darkforest_terraform_eth_constants';
 
 // modal shortcuts
 export const MODAL_BACK_SHORTCUT = 't';

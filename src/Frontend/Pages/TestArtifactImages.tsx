@@ -1,4 +1,4 @@
-import { EMPTY_ARTIFACT_ID } from '@darkforest_eth/constants';
+import { EMPTY_ARTIFACT_ID } from 'darkforest_terraform_eth_constants';
 import { ArtifactFileColor, artifactFileName, setForceAncient } from '@darkforest_eth/gamelogic';
 import { ArtifactRarity, ArtifactType, Biome } from '@darkforest_eth/types';
 import React, { useEffect } from 'react';

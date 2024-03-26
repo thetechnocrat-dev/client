@@ -1,4 +1,4 @@
-import { EMPTY_ADDRESS } from '@darkforest_eth/constants';
+import { EMPTY_ADDRESS } from 'darkforest_terraform_eth_constants';
 import { Monomitter, monomitter } from '@darkforest_eth/events';
 import { biomeName, isLocatable, isSpaceShip } from '@darkforest_eth/gamelogic';
 import { planetHasBonus } from '@darkforest_eth/hexgen';

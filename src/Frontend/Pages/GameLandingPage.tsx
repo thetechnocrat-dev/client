@@ -1,4 +1,4 @@
-import { BLOCK_EXPLORER_URL } from '@darkforest_eth/constants';
+import { BLOCK_EXPLORER_URL } from 'darkforest_terraform_eth_constants';
 import { CONTRACT_ADDRESS } from '@darkforest_eth/contracts';
 import { DarkForest } from '@darkforest_eth/contracts/typechain';
 import { EthConnection, neverResolves, weiToEth } from 'darkforest_terraform_eth_network';

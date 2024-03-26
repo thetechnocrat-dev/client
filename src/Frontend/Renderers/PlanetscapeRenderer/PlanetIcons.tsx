@@ -1,4 +1,4 @@
-import { EMPTY_ADDRESS, MAX_PLANET_LEVEL } from '@darkforest_eth/constants';
+import { EMPTY_ADDRESS, MAX_PLANET_LEVEL } from 'darkforest_terraform_eth_constants';
 import { isLocatable } from '@darkforest_eth/gamelogic';
 import { bonusFromHex } from '@darkforest_eth/hexgen';
 import { getPlanetName } from '@darkforest_eth/procedural';

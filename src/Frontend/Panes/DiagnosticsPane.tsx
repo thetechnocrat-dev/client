@@ -1,4 +1,4 @@
-import { RECOMMENDED_MODAL_WIDTH } from '@darkforest_eth/constants';
+import { RECOMMENDED_MODAL_WIDTH } from 'darkforest_terraform_eth_constants';
 import { Diagnostics, ModalName, Setting } from '@darkforest_eth/types';
 import React, { useEffect, useState } from 'react';
 import { Wrapper } from '../../Backend/Utils/Wrapper';

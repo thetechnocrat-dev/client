@@ -1,4 +1,4 @@
-import { BLOCK_EXPLORER_URL } from '@darkforest_eth/constants';
+import { BLOCK_EXPLORER_URL } from 'darkforest_terraform_eth_constants';
 import { isLocatable } from '@darkforest_eth/gamelogic';
 import { artifactName, getPlanetName } from '@darkforest_eth/procedural';
 import {

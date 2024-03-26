@@ -6,7 +6,7 @@ import {
   MIN_ARTIFACT_RARITY,
   MIN_ARTIFACT_TYPE,
   MIN_BIOME,
-} from '@darkforest_eth/constants';
+} from 'darkforest_terraform_eth_constants';
 import { ArtifactFileColor, artifactFileName, setForceAncient } from '@darkforest_eth/gamelogic';
 import { mockArtifactWithRarity } from '@darkforest_eth/procedural';
 import { SpriteRenderer, WebGLManager } from '@darkforest_eth/renderer';

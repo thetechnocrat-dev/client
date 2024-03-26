@@ -1,4 +1,4 @@
-import { MAX_BIOME, MIN_BIOME } from '@darkforest_eth/constants';
+import { MAX_BIOME, MIN_BIOME } from 'darkforest_terraform_eth_constants';
 import { SpriteRenderer, WebGLManager } from '@darkforest_eth/renderer';
 import { Artifact, ArtifactRarity, ArtifactType, Biome } from '@darkforest_eth/types';
 import autoBind from 'auto-bind';

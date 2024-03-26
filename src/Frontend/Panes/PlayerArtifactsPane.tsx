@@ -1,4 +1,4 @@
-import { RECOMMENDED_MODAL_WIDTH } from '@darkforest_eth/constants';
+import { RECOMMENDED_MODAL_WIDTH } from 'darkforest_terraform_eth_constants';
 import { ModalName } from '@darkforest_eth/types';
 import React from 'react';
 import { Spacer } from '../Components/CoreUI';

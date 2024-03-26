@@ -1,4 +1,4 @@
-import { EMPTY_ADDRESS } from '@darkforest_eth/constants';
+import { EMPTY_ADDRESS } from 'darkforest_terraform_eth_constants';
 import { isUnconfirmedCapturePlanetTx, isUnconfirmedInvadePlanetTx } from '@darkforest_eth/serde';
 import { Planet, TooltipName } from '@darkforest_eth/types';
 import React, { useCallback, useMemo } from 'react';

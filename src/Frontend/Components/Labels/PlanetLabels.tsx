@@ -1,4 +1,4 @@
-import { EMPTY_ADDRESS } from '@darkforest_eth/constants';
+import { EMPTY_ADDRESS } from 'darkforest_terraform_eth_constants';
 import { formatNumber } from '@darkforest_eth/gamelogic';
 import { getPlayerColor } from '@darkforest_eth/procedural';
 import { Planet, PlanetType, PlanetTypeNames } from '@darkforest_eth/types';

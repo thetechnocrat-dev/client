@@ -1,4 +1,4 @@
-import { RECOMMENDED_MODAL_WIDTH } from '@darkforest_eth/constants';
+import { RECOMMENDED_MODAL_WIDTH } from 'darkforest_terraform_eth_constants';
 import { SpaceType } from '@darkforest_eth/types';
 import color from 'color';
 import { css } from 'styled-components';
