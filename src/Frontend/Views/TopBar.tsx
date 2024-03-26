@@ -1,5 +1,5 @@
 import { Monomitter } from '@darkforest_eth/events';
-import { weiToEth } from '@darkforest_eth/network';
+import { weiToEth } from 'darkforest_terraform_eth_network';
 import { EthAddress, ModalName, TooltipName } from '@darkforest_eth/types';
 import React, { useEffect, useState } from 'react';
 import styled from 'styled-components';

@@ -1,7 +1,7 @@
 import { INIT_ADDRESS } from '@darkforest_eth/contracts';
 // This is loaded as URL paths by a webpack loader
 import initContractAbiUrl from '@darkforest_eth/contracts/abis/DFInitialize.json';
-import { EthConnection } from '@darkforest_eth/network';
+import { EthConnection } from 'darkforest_terraform_eth_network';
 import { address } from '@darkforest_eth/serde';
 import {
   ArtifactRarity,

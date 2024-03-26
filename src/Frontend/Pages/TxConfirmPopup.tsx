@@ -1,4 +1,4 @@
-import { weiToGwei } from '@darkforest_eth/network';
+import { weiToGwei } from 'darkforest_terraform_eth_network';
 import { address } from '@darkforest_eth/serde';
 import { Setting } from '@darkforest_eth/types';
 import { BigNumber as EthersBN } from 'ethers';

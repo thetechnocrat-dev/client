@@ -2,7 +2,7 @@ import { EMPTY_ADDRESS } from '@darkforest_eth/constants';
 import { Monomitter, monomitter } from '@darkforest_eth/events';
 import { biomeName, isLocatable, isSpaceShip } from '@darkforest_eth/gamelogic';
 import { planetHasBonus } from '@darkforest_eth/hexgen';
-import { EthConnection } from '@darkforest_eth/network';
+import { EthConnection } from 'darkforest_terraform_eth_network';
 import { Renderer } from '@darkforest_eth/renderer';
 import { isUnconfirmedMoveTx } from '@darkforest_eth/serde';
 import {

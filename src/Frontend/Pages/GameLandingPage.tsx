@@ -1,7 +1,7 @@
 import { BLOCK_EXPLORER_URL } from '@darkforest_eth/constants';
 import { CONTRACT_ADDRESS } from '@darkforest_eth/contracts';
 import { DarkForest } from '@darkforest_eth/contracts/typechain';
-import { EthConnection, neverResolves, weiToEth } from '@darkforest_eth/network';
+import { EthConnection, neverResolves, weiToEth } from 'darkforest_terraform_eth_network';
 import { address } from '@darkforest_eth/serde';
 import { utils, Wallet } from 'ethers';
 import React, { useCallback, useEffect, useRef, useState } from 'react';

@@ -1,4 +1,4 @@
-import { EthConnection } from '@darkforest_eth/network';
+import { EthConnection } from 'darkforest_terraform_eth_network';
 import { AutoGasSetting, Chunk, ModalName, Setting } from '@darkforest_eth/types';
 import React, { useEffect, useState } from 'react';
 import styled from 'styled-components';

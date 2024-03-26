@@ -2,7 +2,7 @@ import { EMPTY_ADDRESS, MAX_PLANET_LEVEL, MIN_PLANET_LEVEL } from '@darkforest_e
 import { Monomitter, monomitter } from '@darkforest_eth/events';
 import { hasOwner, isActivated, isLocatable } from '@darkforest_eth/gamelogic';
 import { bonusFromHex, getBytesFromHex } from '@darkforest_eth/hexgen';
-import { TxCollection } from '@darkforest_eth/network';
+import { TxCollection } from 'darkforest_terraform_eth_network';
 import {
   isUnconfirmedActivateArtifact,
   isUnconfirmedActivateArtifactTx,

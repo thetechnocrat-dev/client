@@ -1,4 +1,4 @@
-import { weiToEth } from '@darkforest_eth/network';
+import { weiToEth } from 'darkforest_terraform_eth_network';
 import { getHatSizeName, getPlanetCosmetic } from '@darkforest_eth/procedural';
 import { isUnconfirmedBuyHatTx } from '@darkforest_eth/serde';
 import { LocationId, Planet } from '@darkforest_eth/types';

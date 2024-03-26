@@ -7,7 +7,7 @@ import {
   ethToWei,
   TxCollection,
   TxExecutor,
-} from '@darkforest_eth/network';
+} from 'darkforest_terraform_eth_network';
 import {
   address,
   artifactIdFromEthersBN,

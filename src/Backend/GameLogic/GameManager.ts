@@ -20,7 +20,7 @@ import {
   ThrottledConcurrentQueue,
   verifySignature,
   weiToEth,
-} from '@darkforest_eth/network';
+} from 'darkforest_terraform_eth_network';
 import { getPlanetName } from '@darkforest_eth/procedural';
 import {
   artifactIdToDecStr,

@@ -1,4 +1,4 @@
-import { EthConnection, isPurchase, weiToEth } from '@darkforest_eth/network';
+import { EthConnection, isPurchase, weiToEth } from 'darkforest_terraform_eth_network';
 import { EthAddress, Setting, TransactionId, TxIntent } from '@darkforest_eth/types';
 import { BigNumber as EthersBN, providers } from 'ethers';
 import { getBooleanSetting } from '../Utils/SettingsHooks';

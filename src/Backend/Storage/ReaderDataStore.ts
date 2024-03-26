@@ -1,5 +1,5 @@
 import { isLocatable } from '@darkforest_eth/gamelogic';
-import { EthConnection } from '@darkforest_eth/network';
+import { EthConnection } from 'darkforest_terraform_eth_network';
 import {
   ArtifactId,
   Biome,

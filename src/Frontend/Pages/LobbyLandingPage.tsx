@@ -1,4 +1,4 @@
-import { EthConnection, ThrottledConcurrentQueue, weiToEth } from '@darkforest_eth/network';
+import { EthConnection, ThrottledConcurrentQueue, weiToEth } from 'darkforest_terraform_eth_network';
 import { address } from '@darkforest_eth/serde';
 import { EthAddress } from '@darkforest_eth/types';
 import { utils, Wallet } from 'ethers';
